@@ -39,9 +39,9 @@
 
 					// Images (in the format of 'url': 'alignment').
 						images: {
-							'https://kuaqiang.netlify.app/assets/images/bg01.jpg': 'center',
-							'https://kuaqiang.netlify.app/assets/images/bg02.jpg': 'center',
-							'https://kuaqiang.netlify.app/assets/images/bg03.jpg': 'center'
+							'https://raw.githubusercontent.com/petcat/kuaqiang.web/master/assets/images/bg01.jpg': 'center',
+							'https://raw.githubusercontent.com/petcat/kuaqiang.web/master/assets/images/bg02.jpg': 'center',
+							'https://raw.githubusercontent.com/petcat/kuaqiang.web/master/assets/images/bg03.jpg': 'center'
 						},
 
 					// Delay.
